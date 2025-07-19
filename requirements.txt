@@ -1,0 +1,5 @@
+requests
+numpy
+arabic_reshaper
+python-bidi
+PyMuPDF
