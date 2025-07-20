@@ -4,5 +4,5 @@ def correct_query(text):
     try:
         blob = TextBlob(text)
         return str(blob.correct())
-    except:
+    except Exception:
         return text

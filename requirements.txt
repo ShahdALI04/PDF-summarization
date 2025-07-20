@@ -3,3 +3,9 @@ numpy
 arabic_reshaper
 python-bidi
 PyMuPDF
+google-generativeai
+python-dotenv
+gradio
+fastapi
+uvicorn
+textblob
