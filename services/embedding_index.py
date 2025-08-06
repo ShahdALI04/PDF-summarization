@@ -1,6 +1,17 @@
 # ✅ embedding_index.py
-# لا حاجة للفكتور سيرش أو FAISS
-# فقط chunking ذكي للنص
+from agents.llm_agent import get_llm_response
+
+class Bot:
+    def summarize(self, chunks):
+        full_text = "\n".join(chunks)
+        return get_llm_response(f"Summarize this:\n{full_text}")
+
+    def answer_question(self, question, chunks):
+        context = "\n".join(chunks)
+        return get_llm_response(f"Answer this question:\nQ: {question}\nContext:\n{context}")
+
+bot = Bot()
+
 
 def smart_chunk_text(text, max_tokens=300):
     import re
@@ -51,11 +62,11 @@ class GeminiRAG:
     def answer_with_context(self, query, context_chunks):
         context = "\n\n".join(context_chunks)
         prompt = f"""
-        لديك السياق التالي من ملف PDF:
-        {context}
-
-        السؤال: {query}
-        أجب إجابة دقيقة كأنك قرأت الملف كاملًا.
-        """
+    You have the following context from the PDF file:
+    {context}
+    Question: {query}
+    Answer accurately as if you had read the entire file.
+    """
         response = self.model.generate_content(prompt)
         return response.text.strip()
+

@@ -8,5 +8,445 @@
       "question": "لخص الكتاب",
       "answer": "يُقدم كتاب \"النبي\" لجبران خليل جبران مجموعة من التأملات والتوجيهات الفلسفية حول الحياة والمجتمع. وعلى الرغم من أن محتواه ليس حقائق مطلقة أو مخصصًا لحالة القارئ الشخصية، إلا أن جبران يركز على الجوانب السلبية للمجتمع بهدف الإصلاح. يحترم جبران المجتمع، لكنه يؤمن بأن الوعي الجماعي منخفض، ويأمل في زيادة الوعي الذاتي لدى القراء.\n\nيؤكد جبران على أهمية القراءة التأملية، ويشجع القراء على قياس ما يقرؤونه على تجاربهم الخاصة واستخلاص الدروس العملية منها. كما يسلط الضوء على أهمية أن يكون الفرد صادقًا مع نفسه، وأن يبني استحقاقه الذاتي.\n\nتتضمن الشخصيات في الكتاب قصصًا ومواقف متخيلة، لكنها تهدف إلى استكشاف الجوانب المختلفة للحياة والمجتمع."
     }
+  ],
+  "522aae47-9195-4ec8-9d3e-e61e3b1f8058": [
+    {
+      "question": "summarize it",
+      "answer": "Please provide the PDF content.  I need the text from the PDF to be able to summarize it."
+    }
+  ],
+  "15558a14-e70b-4aab-99b8-009681f9b91b": [
+    {
+      "question": "summarize it",
+      "answer": "This is the table of contents and a preview of the first few chapters of Robert Lafore's \"Object-Oriented Programming in C++, Fourth Edition\".  The book covers fundamental C++ programming concepts, including basic program construction, loops, decisions, structures, functions, objects and classes, arrays and strings, operator overloading, inheritance, pointers, virtual functions, streams and files, multifile programs, templates and exceptions, the Standard Template Library (STL), and object-oriented software development.  Appendices include an ASCII chart, C++ precedence table and keywords, and information on Microsoft Visual C++ and Borland C++Builder.  The book aims to teach object-oriented programming principles and their application within the C++ language."
+    },
+    {
+      "question": "who is the author",
+      "answer": "Robert Lafore"
+    }
+  ],
+  "0bea795b-11a5-49d7-ae16-ded50e21bf65": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed."
+    }
+  ],
+  "17edff63-8e90-4477-8e36-ee5dcce3b331": [
+    {
+      "question": "Summary",
+      "answer": "Error."
+    }
+  ],
+  "8974fc89-85d1-441f-b8f6-4663b2d4669f": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed."
+    },
+    {
+      "question": "who is the author",
+      "answer": "Robert Lafore"
+    },
+    {
+      "question": "Summary (summarize the file)",
+      "answer": "Error generating summary."
+    }
+  ],
+  "1f93de7d-b43c-4df3-9cd5-cf31d4a5e977": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed."
+    }
+  ],
+  "af257007-06bc-4138-a17c-651acc211870": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed."
+    },
+    {
+      "question": "who is the author",
+      "answer": "Robert Lafore"
+    },
+    {
+      "question": "Summary (summarize it)",
+      "answer": "Summary generation failed. Try a smaller chunk or check API key."
+    },
+    {
+      "question": "who is the author",
+      "answer": "Robert Lafore"
+    },
+    {
+      "question": "Summary (summarize it)",
+      "answer": "Summary generation failed. Try a smaller chunk or check API key."
+    },
+    {
+      "question": "who is the author",
+      "answer": "Robert Lafore"
+    },
+    {
+      "question": "Summary (summarize it)",
+      "answer": "Summary generation failed. Try a smaller chunk or check API key."
+    },
+    {
+      "question": "who is the author",
+      "answer": "Error answering."
+    },
+    {
+      "question": "Summary (summarize it)",
+      "answer": "Summary generation failed. Try a smaller chunk or check API key."
+    },
+    {
+      "question": "Summary (brief)",
+      "answer": "Summary generation failed. Try a smaller chunk or check API key."
+    },
+    {
+      "question": "Summary (brief)",
+      "answer": "Summary generation failed. Try a smaller chunk or check API key."
+    },
+    {
+      "question": "who is the author",
+      "answer": "Robert Lafore"
+    },
+    {
+      "question": "Summary (summarize it)",
+      "answer": "Summary generation failed. Try a smaller chunk or check API key."
+    }
+  ],
+  "4a20fccb-377e-4ceb-9a3d-3e7a74c0bdb8": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed."
+    }
+  ],
+  "9231bebc-1b29-467c-97af-76ec3d79d344": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed."
+    }
+  ],
+  "5863018d-6271-4a40-9d79-6c72c7eccd63": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed."
+    }
+  ],
+  "9bf67538-cce3-4cfb-9017-946ee0084cec": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed."
+    }
+  ],
+  "a6514c44-03de-4eb0-bc1a-9910c792055e": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed."
+    }
+  ],
+  "4cf2d8f2-15c2-43c3-93ee-93f5ff717eda": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed."
+    }
+  ],
+  "d30c435a-c35f-413c-a4a8-43cedfbb3286": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed."
+    }
+  ],
+  "e340544a-1186-4774-b07d-03268e495cc1": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed."
+    }
+  ],
+  "f1ee5e8b-ca66-4ec5-82d7-578202254933": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed."
+    }
+  ],
+  "e7dec7d5-67d9-4cc3-af3e-ceef80a39947": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed."
+    }
+  ],
+  "866b167a-ae5b-41cd-a691-90b30d02ae6d": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 300 chunks created."
+    },
+    {
+      "question": "who is the author",
+      "answer": "Robert Lafore"
+    },
+    {
+      "question": "Summary (the file)",
+      "answer": "Summary error: GenerativeModel.generate_content() got an unexpected keyword argument 'max_output_tokens'"
+    }
+  ],
+  "eeb30906-0859-40e4-b9bd-22b7c9ef2afa": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 300 chunks created."
+    },
+    {
+      "question": "who is the writer",
+      "answer": "The writer of the book *Object-Oriented Programming in C++, Fourth Edition* is Robert Lafore."
+    },
+    {
+      "question": "Summary (the file)",
+      "answer": "The provided text is the complete content of Robert Lafore's \"Object-Oriented Programming in C++, Fourth Edition\".  It's a book's table of contents, preface, introduction, and a portion of Chapter 1.  The document details the book's structure, covering fundamental C++ programming concepts, object-oriented programming (OOP) principles, the Unified Modeling Language (UML), and software development processes.  It emphasizes a gradual approach to learning C++, starting with basic programming elements and progressing to advanced OOP techniques and the Standard Template Library (STL).  The book aims to teach C++ in the context of modern software development practices, including the UML and improved development processes, and is designed for a range of users, from beginners to experienced programmers.  Appendices cover compiler-specific information (Microsoft Visual C++ and Borland C++Builder), a console graphics library, and solutions to selected exercises."
+    }
+  ],
+  "263866ed-973e-4751-95c3-645265dd508d": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 500 chunks created."
+    },
+    {
+      "question": "who is the writer",
+      "answer": "Error: Timeout of 60.0s exceeded, last exception: 503 The model is overloaded. Please try again later."
+    }
+  ],
+  "48899866-58ee-4f24-a853-36ee3685a01c": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 500 chunks created."
+    },
+    {
+      "question": "مين مؤلف الكتاب",
+      "answer": "Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 35\n}\n]"
+    },
+    {
+      "question": "مين مؤلف الكتاب",
+      "answer": "Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 8\n}\n]"
+    },
+    {
+      "question": "مين المؤلف",
+      "answer": "Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 36\n}\n]"
+    },
+    {
+      "question": "مين المؤلف",
+      "answer": "Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 18\n}\n]"
+    },
+    {
+      "question": "مين المؤلف",
+      "answer": "Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 54\n}\n]"
+    },
+    {
+      "question": "مين المؤلف",
+      "answer": "The author of the book is Robert Lafore."
+    },
+    {
+      "question": "قولي الملف بيتكلم عن ايه بصفه عامه",
+      "answer": "هذا الملف هو كتاب \"برمجة كائنية التوجه في C++\" للكاتب روبرت لافور.  يتناول الكتاب أساسيات برمجة C++  بشكل شامل، بدءًا من المفاهيم الأساسية مثل المتغيرات وأنواع البيانات وحتى المواضيع المتقدمة مثل الوراثة، المؤشرات،  والقوالب.  كما يتضمن أمثلة عملية وشروحات مفصلة للمفاهيم المختلفة. باختصار، هو دليل شامل لتعلم برمجة C++ كائنية التوجه."
+    },
+    {
+      "question": "tell me the important point about it",
+      "answer": "The document is a table of contents and partial text from Robert Lafore's \"Object-Oriented Programming in C++\", Fourth Edition.  The important points depend on what you're interested in.  To best answer your question, please clarify what aspects of the book are most important to you.  For example, are you interested in:\n\n* **The book's content:**  (e.g.,  the topics covered, like object-oriented programming principles, C++ features, or specific libraries).\n* **The book's metadata:** (e.g., author, publisher, publication date, ISBN).\n* **The book's structure:** (e.g., the chapter breakdown, presence of appendices).\n\nOnce you provide more detail about your interest, I can give you a more precise and helpful response."
+    }
+  ],
+  "fa446847-f9ed-440a-875b-53d78b5515ba": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 500 chunks created."
+    }
+  ],
+  "bda76483-b456-4b99-a24f-93f86aed3c6c": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 500 chunks created."
+    }
+  ],
+  "7e9c0ff8-53d8-4789-86c5-82c18bb3675a": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 500 chunks created."
+    }
+  ],
+  "d012e1cb-f643-437b-a68d-60c070ffc35b": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed."
+    }
+  ],
+  "7d506eab-f10a-485f-9f15-5be89827ebb5": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 500 chunks created."
+    }
+  ],
+  "4f8bb603-2579-4b01-a908-cc9e66efa1ac": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 500 chunks created."
+    }
+  ],
+  "2b6ddc97-ddab-40a0-92b8-aff9baf740b9": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 500 chunks created."
+    },
+    {
+      "question": "who is the author",
+      "answer": "The author of *Object-Oriented Programming in C++, Fourth Edition* is Robert Lafore."
+    },
+    {
+      "question": "tell me important points",
+      "answer": "The document is a table of contents and excerpts from Robert Lafore's \"Object-Oriented Programming in C++\", Fourth Edition.  Important points include:\n\n* **Focus:** The book teaches object-oriented programming (OOP) using C++.\n* **Content Overview:**  The table of contents shows a comprehensive curriculum covering fundamental C++ concepts (loops, decisions, functions, structures), OOP principles (objects, classes, inheritance, polymorphism), advanced topics (pointers, virtual functions, streams, templates, exceptions), and the Standard Template Library (STL).  It also includes appendices with an ASCII chart, C++ precedence table, information on specific compilers (Microsoft Visual C++ and Borland C++Builder), console graphics, STL algorithms, answers to exercises, and a bibliography.\n* **Copyright and Disclaimer:** The book is copyrighted, and the publisher and author disclaim responsibility for errors or damages resulting from its use.\n* **OOP Concepts Covered:** The excerpts highlight key OOP concepts like objects, classes, inheritance, reusability, and polymorphism.  It contrasts the OOP approach with procedural programming.\n\n\nTo give you more specific important points, I need clarification on what *kind* of important points you're interested in.  For example, are you interested in:\n\n* The specific topics covered in each chapter?\n* The book's pedagogical approach?\n* The target audience?\n* The book's strengths and weaknesses (if you have further information about reviews or comparisons)?\n* A comparison of this edition to other editions?\n\n\nPlease provide more details about your request."
+    },
+    {
+      "question": "Summary (it)",
+      "answer": "This is a brief summary of Robert Lafore's \"Object-Oriented Programming in C++, Fourth Edition\".  The book provides a comprehensive introduction to C++ programming, emphasizing object-oriented principles and incorporating the Unified Modeling Language (UML).  It starts with C++ basics, covering variables, data types, operators, control structures (loops and decisions), and functions.  A gradual approach introduces object-oriented concepts like classes, objects, inheritance, polymorphism, and operator overloading.  The book also covers advanced topics such as pointers, virtual functions, streams and files, multifile programs, templates, exceptions, and the Standard Template Library (STL).  A significant portion is dedicated to object-oriented software development, integrating UML diagrams throughout to illustrate program design and structure.  The book includes numerous example programs, exercises, and appendices covering compiler-specific details (Microsoft Visual C++ and Borland C++Builder) and a console graphics library.  The fourth edition features an earlier introduction to UML and a revised approach to software development."
+    }
+  ],
+  "a6c69ecf-7872-4901-a03f-fdba3ea62420": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 28 chunks created."
+    },
+    {
+      "question": "Summary (it)",
+      "answer": "This document by Dr. Yasser Abdelhamid provides an introduction to variables and data types in Java.  It covers the following key areas:\n\n**1. Variables:**\n\n* **Declaration and Naming:**  A variable is a container holding a value during program execution.  Its name must start with a letter, $, or _, can contain letters, digits, underscores, and dollar signs, is case-sensitive, and cannot be a reserved word or contain whitespace.  Camel case is recommended for multi-word variable names.  Meaningful names are crucial for readability.\n\n* **Data Types:** Variables hold specific data types.  Common Java data types include:\n    * `String` (text, enclosed in double quotes)\n    * `int` (integers)\n    * `float` (floating-point numbers, single precision)\n    * `double` (floating-point numbers, double precision)\n    * `char` (single characters, enclosed in single quotes)\n    * `boolean` (true or false)\n\n* **Primitive vs. Non-primitive:**  Java has primitive data types (byte, short, int, long, float, double, boolean, char) which are predefined and have a fixed size, and non-primitive data types (like String, Arrays, Classes) which are created by the programmer and can have methods.  Key differences include: primitive types always have a value (cannot be null), start with lowercase letters, and lack methods; non-primitive types can be null, start with uppercase letters, and have methods.\n\n**2. Type Casting:**\n\n* **Widening Casting:** Automatic conversion from a smaller data type to a larger one (e.g., `int` to `double`).  The order is: `byte -> short -> char -> int -> long -> float -> double`.\n\n* **Narrowing Casting:** Manual conversion from a larger data type to a smaller one (e.g., `double` to `int`).  This requires explicit casting (e.g., `int myInt = (int) myDouble;`) and can lead to data loss.  The document illustrates how Java handles narrowing casting of integers, using the modulo operator to handle values outside the smaller type's range.\n\n**3. Number Representation:**\n\nThe document explains how Java interprets integer literals prefixed with:\n\n* `0x` or `0X`: Hexadecimal (base-16)\n* `0b` or `0B`: Binary (base-2)\n* `0`: Octal (base-8)\n\n\nIn summary, the document provides a foundational understanding of variables and data types in Java, emphasizing proper naming conventions, the distinction between primitive and non-primitive types, and the mechanics of type casting and different number representations within the language.  The examples provided illustrate key concepts and potential pitfalls, such as data loss during narrowing casting."
+    },
+    {
+      "question": "لخص الملف",
+      "answer": "The document is a lecture note on Java variables and data types by Dr. Yasser Abdelhamid.  It covers:\n\n* **Variables:**  What they are, naming conventions (case-sensitive, must start with a letter or $, _, cannot contain whitespace, cannot be reserved words), and best practices (self-declarative names, Camel Case for multiple words).\n* **Data Types:**  A detailed explanation of primitive data types (byte, short, int, long, float, double, boolean, char) including their size and range, and non-primitive data types (String, Arrays, Classes).  The document also describes how to declare and initialize variables using different data types.\n* **Syntax Examples:**  The document provides numerous examples of variable declarations and assignments.\n\n\nIn short, it's a concise guide to understanding and using variables and data types in Java programming."
+    },
+    {
+      "question": "لخص الملف بالعربي",
+      "answer": "ملخص الملف:\n\nيتناول هذا الملف أساسيات المتغيرات وأنواع البيانات في جافا. يشرح ماهية المتغير كحاوية لقيمة خلال تنفيذ البرنامج، ويشرح قواعد تسمية المتغيرات (بداية بحرف أو $ أو _،  حساسية الأحرف، عدم استخدام كلمات محجوزة).  كما يوضح أنواع البيانات الأساسية (primitive data types) مثل `int`, `float`, `double`, `char`, `boolean`,  وغير الأساسية (non-primitive data types) مثل `String`.  يُغطي الملف  حجم كل نوع بيانات أساسي،  و يقدم أمثلة على إعلان المتغيرات وتعيين القيم لها باستخدام بناء جملة جافا.  ويُشجع على استخدام أسماء متغيرات ذات دلالة (self-declarative) و أسلوب الكاميل كيس (Camel Case).  يُذكر  رابط موقع  w3schools.com كمرجع إضافي."
+    },
+    {
+      "question": "لخص الملف",
+      "answer": "The document is a lecture note on Java variables and data types by Dr. Yasser Abdelhamid.  It covers:\n\n* **Variables:**  What they are, naming conventions (case sensitivity, allowed characters, use of Camel Case), and examples of good and bad variable names.\n* **Data Types:**  A detailed explanation of Java's primitive data types (byte, short, int, long, float, double, boolean, char) including their size and range, and non-primitive types like String, Arrays, and Classes.  The document also explains how to declare and initialize variables using different data types.\n* **Syntax:** Examples of variable declaration and initialization are provided.\n\nIn short, the document provides a comprehensive introduction to variables and data types in Java programming."
+    },
+    {
+      "question": "مين المؤلف",
+      "answer": "المؤلف هو الدكتور ياسر عبد الحميد."
+    },
+    {
+      "question": "مين المؤلف",
+      "answer": "مؤلف هذه الوثيقة هو الدكتور ياسر عبد الحميد."
+    }
+  ],
+  "fe02c8be-f4e7-4cca-948b-7597966f41ec": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 28 chunks created."
+    }
+  ],
+  "27de4a22-ac85-456b-b7b1-de8b9e0f8d80": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 28 chunks created."
+    }
+  ],
+  "b4dd08e2-38d4-438a-bed1-84ce3dc4c039": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 100 chunks created."
+    },
+    {
+      "question": "الملف دا بيتكلم عن ايه",
+      "answer": "الملف يتحدث عن برنامج بكالوريوس في تكنولوجيا المعلومات (Information Technology) لعام 2021.  يبدو أنه يحتوي على وصف للبرنامج، متطلباته، وربما خطة الدراسة.  اللغة المستخدمة هي العربية، ولكنها مكتوبة من اليمين إلى اليسار، مما يجعل القراءة صعبة بعض الشيء.  للحصول على إجابة أكثر دقة، أحتاج إلى ترجمة المحتوى العربي أو توضيح ما تريد معرفته بالتحديد حول البرنامج."
+    },
+    {
+      "question": "لخص الملف",
+      "answer": "The document appears to be a curriculum vitae or a project proposal related to Information Technology, written in Arabic.  It details a Bachelor's Degree program in Information Technology completed in 2021.  The content includes sections describing skills, projects, and experiences,  with specific mentions of software (possibly MATLAB), project management, and problem-solving abilities.  There are also references to specific courses or projects with Arabic titles.  To summarize more effectively, please provide a translation of the Arabic text.  A translation will allow for a more accurate and concise summary."
+    },
+    {
+      "question": "لخص الملف عربي",
+      "answer": "الملف يتحدث عن برنامج بكالوريوس في تقنية المعلومات (2021).  يبدو أنه يحتوي على  خطة دراسية أو وصف لمقرر دراسي،  بالتحديد  يتضمن  تفاصيل عن  المقررات الدراسية،  متطلباتها،  و أهدافها.  النص مكتوب بالعربية، لكنه  معكوس (من اليمين إلى اليسار) مما يصعب فهمه بشكل دقيق دون  استخدام أدوات  خاصة لقراءة النصوص العربية المعكوسة.  للحصول على ملخص دقيق،  أرجو تزويدي بنسخة  مصححة  للنص  بحيث يكون  مكتوبًا  من اليسار إلى اليمين."
+    },
+    {
+      "question": "لخص الملف",
+      "answer": "The document appears to be a curriculum vitae or a project proposal related to Information Technology, written in Arabic.  It details a Bachelor's Degree in Information Technology completed in 2021.  The content includes sections describing skills, projects (possibly including software development, database management, and system administration), and work experience.  Specific details are difficult to extract without translation and further context.  To summarize effectively, please provide a translation of the Arabic text."
+    },
+    {
+      "question": "لخص الملف عربي",
+      "answer": "الملف يتحدث عن برنامج بكالوريوس في تكنولوجيا المعلومات (2021).  يبدو أنه يحتوي على  خطة دراسية أو وصف لمقرر دراسي،  مع التركيز على  المواد الدراسية العملية (تامولعملا) والنظرية (تابساحلا).  يذكر الملف  عدة مواضيع  بأسلوب مختصر يصعب فهمه بشكل كامل بدون سياق إضافي،  مثل:  استخدام برامج محددة (فيصوتو، بلاطلا)،  مشاريع عملية (ثحبلل)،  والمتطلبات العملية للمقرر.  يحتوي على أرقام (1، 2، 3)  تشير على الأرجح إلى أقسام أو نقاط رئيسية.  النص مكتوب بالعربية، لكنه يحتوي على العديد من الكلمات التي تبدو أنها مصطلحات تقنية أو اختصارات غير مفهومة بسهولة.  لإعطاء ملخص أكثر دقة، أرجو تزويدي بمزيد من المعلومات حول سياق هذا الملف.  على سبيل المثال، ما هو الغرض من هذا الملف؟  هل هو خطة دراسية؟  وصف لمقرر؟  شيء آخر؟"
+    },
+    {
+      "question": "Summary (it)",
+      "answer": "This document appears to be a course catalog or curriculum for a Bachelor of Science in Information Technology program, written in Arabic and then translated into English.  The summary below is organized by year and then by course, highlighting key topics.  Due to the length of the document, a detailed summary is provided.\n\n**First Year:**\n\n* **Mathematics-1 (MA111):** Covers functions, limits, derivatives, integrals, and curve sketching.\n* **Discrete Mathematics (MA112):** Focuses on foundational concepts like sets, relations, Boolean algebra, and logic, relevant to computer science.\n* **Technical Report Writing (HU111):** Teaches the fundamentals of report writing, structure, style, and presentation.\n* **Human Rights (HU113):** Explores the definition, history, and various aspects of human rights, including international organizations and business influences.\n* **Mathematics-2 (MA113):** Builds upon Mathematics-1, covering partial differentiation, differential equations, and Laplace transforms.\n* **Creative and Scientific Thinking (HU112):** Introduces meta-cognition, creative thinking tools (brainstorming, mind mapping), and communication theories and strategies.\n* **Micro Economics (HU101):** Covers economic concepts, demand, production, cost, and the theory of the firm.\n\n\n**Second Year:**\n\n* **Programming Language (CS112):** Teaches structured programming, data types, and subprograms.\n* **Object Oriented Programming (CS215):** Covers OOP concepts, design principles (encapsulation, inheritance, polymorphism), and algorithm analysis.\n* **Introduction to Computers (IT110):** Introduces computer hardware, software, data representation, networking, and the internet.\n* **Database Systems (DS211):** Covers relational database processing, SQL, and the Entity-Relationship model.\n* **Probability and Statistics-1 (ST121):** Introduces statistical concepts, probability distributions, and basic statistical analysis.\n* **Computer Graphics (IT221):** Covers 2D and 3D graphics, algorithms, transformations, and object representation.\n* **Web Technology (IT230):** Introduces front-end (HTML, CSS, JavaScript) and back-end web development, including platforms and frameworks.\n* **Fundamentals lab (LB211):**  A practical lab component supporting the second-year coursework.\n* **Operation Research (IT217):** Covers problem-solving methodologies, linear programming, and decision support systems.\n* **Data Structures (CS216):** Covers various data structures like trees, graphs, and hash tables, along with sorting and searching algorithms.\n* **Computer Networks (IT231):** Introduces computer networking concepts, protocols (TCP/IP), and internet applications.\n\n\n**Third Year:**\n\n* **Network Routing and Switching-Lab (LB312):** A practical lab component focusing on network infrastructure.\n* **Algorithms analysis and Design (IT341):** Covers algorithm design techniques, complexity analysis, and NP-hard problems.\n* **Logic Design (IT113):** Covers digital logic, Boolean algebra, combinational and sequential logic circuits.\n* **Operating Systems (CS319):** Covers operating system structures, process management, memory management, and file systems.\n* **Machine Learning (AI321):** Introduces various machine learning algorithms, model validation, and hyperparameter tuning.\n* **Probability and Statistics-2 (ST222):** Builds upon Probability and Statistics-1, covering sampling distributions, hypothesis testing, and regression.\n* **Image processing (IT428):** Covers image processing techniques, filters, transformations, and applications.\n* **Hacking-lab (LB313):** A practical lab component related to ethical hacking and security.\n* **Software Engineering (CS240):** Introduces software development processes, requirements engineering, design principles, and testing.\n* **Micro controller (IT343):** Covers microcontroller basics, programming, and interfacing with hardware components.\n* **Artificial Intelligence (AI311):** Introduces AI methodologies, search algorithms, machine learning, and probabilistic reasoning.\n* **Digital Signal Processing (IT212):** Covers continuous and discrete-time signals and systems, Fourier and Z-transforms, and digital filter design.\n* **Pattern Recognition (IT322):** Covers feature extraction, selection, classification techniques, and clustering.\n* **Information Security (IT333):** Covers information and network security concepts, cryptography, and security protocols.\n\n\n**Fourth Year:**\n\n* **Advanced Computer Networks (IT434):** Covers advanced network architectures, routing protocols, and network management.\n* **Advanced Software Engineering (CS344):** Covers software architecture, design patterns, and software quality assurance.\n* **Embedded Systems (IT423):** Covers embedded systems software design, interfacing, and mobile/wireless systems.\n* **Multimedia Mining (IT424):** Covers data mining techniques applied to multimedia data (image, audio, video, text).\n* **Machine Vision (IT425):** Covers image formation, feature detection, motion estimation, and 3D vision.\n* **Virtual Reality (IT426):** Introduces virtual reality principles, technology, and applications.\n* **Software Testing and QA (CS445):** Covers software quality assurance, testing techniques, and verification/validation.\n* **Selected Topics in embedded systems and Robotics (IT427):** Covers emerging topics in embedded systems and robotics.\n* **Software Design and Architecture (CS446):** Covers design patterns, frameworks, distributed systems, and software quality attributes.\n* **Selected Topics in software engineering (CS447):** Covers emerging topics in software engineering.\n* **Cloud Computing (IT436):** Introduces cloud computing concepts, architectures, and networking technologies.\n* **Natural Language Processing (AI448):** Covers natural language processing techniques, language models, and machine translation.\n* **Semantic Web and Ontology (AI435):** Introduces semantic web technologies, ontologies, and knowledge representation.\n* **Communication Technology (IT438):** Covers communication technologies, optical networks, RFID, and wireless communication.\n* **Wireless and Mobile Networks (IT439):** Covers wireless communication fundamentals, antenna theory, and mobile network architectures.\n* **Selected labs in AI (LB431):** A practical lab component supporting the fourth-year AI coursework.\n* **Entrepreneurship (HU427):** Covers entrepreneurial skills, business planning, and new venture creation.\n* **Fundamentals of Management (HU402):** Covers management principles, planning, organizing, leading, and controlling.\n* **Graduation Project (PC401, PC402):** A two-semester project involving problem analysis, design, and implementation.\n\n\nThis detailed summary provides a comprehensive overview of the Information Technology curriculum.  The course descriptions are concise but highlight the key concepts covered in each subject.  The structure of the document suggests a well-defined progression of learning, building upon foundational knowledge in the earlier years."
+    },
+    {
+      "question": "Summary (it)",
+      "answer": "This document appears to be a course catalog or curriculum for a Bachelor of Information Technology program, written in Arabic and then translated.  It details the courses required for the program, including course codes, names, credit hours, prerequisites, and brief descriptions.  The structure is organized by year (first through fourth) and semester.  Each course description provides a concise overview of the topics covered.\n\nThe courses span a wide range of IT subjects, including:\n\n* **Mathematics and Statistics:**  Covering calculus, discrete mathematics, probability, and statistics.  These form the foundational mathematical basis for many IT disciplines.\n\n* **Programming and Software Engineering:**  A comprehensive sequence of courses covering programming languages (including object-oriented programming), data structures, software engineering principles, testing, and design patterns.  Advanced topics like software architecture and security are also included.\n\n* **Computer Systems:**  Courses on computer organization, operating systems, and computer networks provide a deep understanding of how computer systems function at various levels.\n\n* **Databases:**  The curriculum includes courses on database systems, covering both relational databases and modern data analytics techniques.\n\n* **Web Technologies:**  Courses cover front-end and back-end web development, including various platforms and frameworks.\n\n* **Artificial Intelligence (AI):**  Several courses are dedicated to AI, covering topics such as machine learning, artificial intelligence fundamentals, natural language processing, and semantic web technologies.\n\n* **Other Relevant Subjects:**  The program also includes courses in areas like digital signal processing, computer graphics, human rights, microeconomics, and management fundamentals, reflecting the broader context of IT within a business and societal environment.\n\nThe document also includes detailed grading schemes, credit hour breakdowns, and prerequisite structures for each course.  There is a significant amount of numerical data related to credit hours, grading scales, and course requirements.  The overall impression is that this is a rigorous and comprehensive IT program designed to equip students with a strong theoretical and practical foundation in the field."
+    },
+    {
+      "question": "لخص الملف",
+      "answer": "The document appears to be a curriculum vitae or a project proposal related to Information Technology, written in Arabic.  It details a Bachelor's Degree in Information Technology completed in 2021.  The content includes sections describing skills, projects, and experiences,  mentioning specific software and technologies (though the specifics are difficult to ascertain without translation).  The document also seems to outline project goals and accomplishments, possibly related to software development or IT systems.  To provide a more accurate summary, a translation of the Arabic text is needed."
+    },
+    {
+      "question": "لخص الملف عربي",
+      "answer": "الملف يتحدث عن برنامج بكالوريوس في تقنية المعلومات (2021).  يحتوي على قسمين رئيسيين: الأول يصف البرنامج نفسه، والثاني يصف متطلبات البرنامج ومخرجاته.  يتضمن وصف البرنامج أهدافه،  ومحتوياته الدراسية،  والمهارات التي يكتسبها الطالب.  يبدو أن النص مكتوب بالعربية الفصحى، ولكن مع وجود بعض الكلمات التي تبدو معكوسة (ربما بسبب طريقة كتابة النص).  للحصول على ملخص أكثر دقة، أرجو تزويدي بنسخة أكثر وضوحًا من النص، خاصةً الأجزاء التي تبدو معكوسة."
+    }
+  ],
+  "ea628520-6c6d-4584-8d5f-f7db2ac0a5a1": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 100 chunks created."
+    }
+  ],
+  "83e6da08-03da-4871-88ff-d12a03149b92": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 100 chunks created."
+    }
+  ],
+  "a6ab7054-aa55-4187-9a45-e858a7636919": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 28 chunks created."
+    },
+    {
+      "question": "لخص الملف دا",
+      "answer": "This document is a lecture note on Java variables and data types by Dr. Yasser Abdelhamid.  It covers:\n\n* **Variables:**  What they are, naming conventions (case-sensitive, must start with a letter or underscore/dollar sign, cannot contain whitespace or reserved words), and best practices (self-declarative names, Camel Case for multi-word names).\n\n* **Data Types:**  A detailed explanation of Java's primitive data types (byte, short, int, long, float, double, boolean, char) including their size, range, and usage.  Non-primitive data types (String, Arrays, Classes) are also mentioned.\n\n* **Syntax:** Examples of variable declaration and initialization are provided, showing both declaration alone (`int myAge;`) and declaration with assignment (`int myAge = 34;`).\n\nIn short, the document provides a foundational understanding of variables and data types within the Java programming language."
+    },
+    {
+      "question": "مين المؤلف",
+      "answer": "المؤلف هو الدكتور ياسر عبد الحميد."
+    },
+    {
+      "question": "مين المؤلف",
+      "answer": "المؤلف هو الدكتور ياسر عبد الحميد."
+    },
+    {
+      "question": "لخص الملف",
+      "answer": "This document is a lecture note on Java variables and data types by Dr. Yasser Abdelhamid.  It covers:\n\n* **Variables:**  What they are, naming conventions (case-sensitive, must start with a letter or $, _, cannot contain whitespace, cannot be reserved words), and best practices (self-declarative names, Camel Case for multiple words).\n\n* **Data Types:**  A detailed explanation of Java's primitive data types (byte, short, int, long, float, double, boolean, char) including their size and range, and non-primitive data types (String, Arrays, Classes).  The document also describes how to declare and initialize variables using different data types.\n\n* **Syntax Examples:** The document provides numerous examples of variable declarations and assignments.\n\nIn short, it's a concise guide to understanding and using variables and data types in Java programming."
+    },
+    {
+      "question": "يعني ايه متغيرات",
+      "answer": "متغيرات في جافا (Variables in Java) هي حاويات تخزن قيمًا أثناء تنفيذ البرنامج.  لكل متغير اسم، نوع بيانات، وقيمة.  أمثلة على أنواع البيانات:\n\n* **`int`**: للأعداد الصحيحة (مثل 10، -5).\n* **`double`**: للأعداد العشرية (مثل 3.14، -2.5).\n* **`String`**: للنصوص (مثل \"مرحباً\").\n* **`boolean`**: لقيم منطقية ( `true` أو `false`).\n* **`char`**: لحرف واحد (مثل 'أ').\n\nأسماء المتغيرات يجب أن تبدأ بحرف أو علامة الدولار ($) أو شرطة سفلية (_).  يمكن أن تحتوي على أحرف، أرقام، وشرطة سفلية، ولكن لا يمكن أن تحتوي على مسافات.  كما أن أسماء المتغيرات حساسة لحالة الأحرف (myVar و myvar متغيران مختلفان).  يُفضل أن تكون أسماء المتغيرات ذات معنى وواضحة (مثل `studentAge` بدلاً من `x`)."
+    }
+  ],
+  "dff2f3c6-3478-4dff-a4e0-022096a2d708": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 28 chunks created."
+    }
+  ],
+  "d23a38a0-a8ce-4792-a569-b39966f124b9": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 100 chunks created."
+    },
+    {
+      "question": "لخص الملف",
+      "answer": "The document appears to be a curriculum vitae or a project proposal related to Information Technology, written in Arabic.  It details a Bachelor's Degree in Information Technology completed in 2021.  The content includes sections describing skills, projects, and experiences, likely highlighting expertise in areas such as software development, database management, and possibly network administration.  Specific details are difficult to extract without translation and a deeper understanding of the Arabic terminology used.  To provide a more accurate summary, please provide a translation of the Arabic text."
+    }
+  ],
+  "1e82373d-28e6-4560-ba3e-88873fcef506": [
+    {
+      "question": "Uploaded",
+      "answer": "PDF processed. 500 chunks created."
+    },
+    {
+      "question": "Summary (it in detailed)",
+      "answer": "This document is the table of contents and introduction to Robert Lafore's \"Object-Oriented Programming in C++, Fourth Edition.\"  The book aims to teach C++ programming within the context of modern software development practices, emphasizing object-oriented programming (OOP), the Unified Modeling Language (UML), and improved software development processes.  The detailed summary below breaks down the key aspects of the introduction and the structure of the book itself.\n\n**I. Introduction and Programming Innovations:**\n\nThe introduction highlights the shift from the older, less efficient \"seat-of-the-pants\" coding approach to more structured and robust methods.  It emphasizes three major innovations that address the complexity inherent in large software projects:\n\n* **Object-Oriented Programming (OOP):**  The book champions OOP as a superior approach to managing complexity by organizing programs around interacting objects, each encapsulating data and the functions (member functions or methods) that operate on that data. This contrasts with procedural programming, where data and functions are separate entities, leading to potential conflicts and difficulties in modification and maintenance.  The book stresses understanding the core concepts of OOP—objects, classes, inheritance, polymorphism, and overloading—before delving into the specifics of the C++ language.\n\n* **The Unified Modeling Language (UML):**  The fourth edition integrates UML diagrams throughout the text, providing visual representations of program structure and relationships.  This helps readers understand the design and operation of programs more effectively.  The introduction outlines which chapters introduce specific UML diagrams (class diagrams, object diagrams, sequence diagrams, use case diagrams, activity diagrams, etc.).\n\n* **Improved Software Development Processes:** The book acknowledges the evolution of software development methodologies, moving beyond the waterfall model to more iterative and flexible approaches.  Chapter 16 focuses on object-oriented software development, emphasizing use case modeling as a crucial step in the design process.  This involves identifying actors, use cases, and scenarios to define program functionality before translating them into classes and objects.\n\n**II. C++ and its Relationship to C:**\n\nThe book clarifies that while C++ is derived from C and shares some syntactic similarities, they are fundamentally different languages.  C++ extends C with OOP capabilities and other features, resulting in a distinct programming paradigm.  The book does *not* assume prior knowledge of C, teaching C++ from the ground up.  However, it acknowledges that prior programming experience (in any language) would be beneficial.\n\n**III. Book Structure and Approach:**\n\nLafore employs a gradual approach, starting with basic C++ programming concepts (variables, I/O, control structures, functions) in the initial chapters before introducing OOP in Chapter 6.  This structured progression allows readers to build a solid foundation before tackling more advanced topics.  The book's structure is as follows:\n\n* **Chapter 1: The Big Picture:** Introduces the core concepts of OOP and UML, providing a high-level overview of the book's content.\n\n* **Chapters 2-5: C++ Programming Basics:** Covers fundamental procedural programming concepts, including variables, I/O (using `cout` and `cin`), control structures (loops and decisions), and functions.  This section lays the groundwork for understanding OOP.  It also highlights differences between C and C++ practices.\n\n* **Chapter 6: Objects and Classes:** Introduces the core concepts of OOP, including classes, objects, constructors, destructors, and the use of the `const` qualifier with classes and member functions.  This chapter marks the transition to object-oriented programming.\n\n* **Chapter 7: Arrays and Strings:**  Explores arrays (one-dimensional and multidimensional), arrays of structures and objects, and string handling techniques using both C-style strings and the Standard C++ `string` class.\n\n* **Chapter 8: Operator Overloading:**  Explains how to redefine the behavior of operators (like +, -, =, etc.) for user-defined types, enabling more intuitive operations on objects.\n\n* **Chapter 9: Inheritance:**  Covers inheritance, a key OOP concept where a new class (derived class) inherits properties and methods from an existing class (base class).  It discusses different types of inheritance (public, private, protected) and their implications.\n\n* **Chapter 10: Pointers:**  Explores pointers, a powerful but potentially complex feature of C++, essential for dynamic memory management and working with linked data structures.\n\n* **Chapter 11: Virtual Functions:**  Introduces virtual functions and polymorphism, allowing objects of different classes to respond differently to the same function call.  This chapter also covers abstract classes, friend functions, and the `this` pointer.\n\n* **Chapter 12: Streams and Files:**  Covers input/output operations using streams, including file I/O, formatted I/O, binary I/O, and error handling.\n\n* **Chapter 13: Multifile Programs:**  Explores the organization and management of larger programs using multiple source files, header files, and namespaces.\n\n* **Chapter 14: Templates and Exceptions:**  Introduces templates (for creating generic functions and classes) and exception handling (for managing runtime errors).\n\n* **Chapter 15: The Standard Template Library (STL):**  Provides an overview of the STL, a powerful library of container classes (vectors, lists, maps, etc.) and algorithms.\n\n* **Chapter 16: Object-Oriented Software Development:**  Discusses modern software development processes, focusing on use case modeling and its application in object-oriented design.\n\n* **Appendices:** Include an ASCII chart, a C++ precedence table and keywords, information on Microsoft Visual C++ and Borland C++Builder compilers, details on the Console Graphics Lite library, STL algorithms and member functions, answers to selected questions and exercises, and a bibliography.\n\n\n**IV.  Target Audience and Prerequisites:**\n\nThe book is designed for a broad audience, including professional programmers, students, and hobbyists.  No prior programming experience is strictly required, but some familiarity with basic computer operations is assumed.  Prior knowledge of C is not necessary.\n\n\n**V.  Conclusion:**\n\nThe book aims to provide a comprehensive and accessible introduction to C++ programming, emphasizing the practical application of OOP principles and modern software development practices.  The structured approach, combined with numerous examples and exercises, makes it suitable for self-study and classroom use.  The integration of UML diagrams enhances understanding and facilitates the design process."
+    }
   ]
 }
