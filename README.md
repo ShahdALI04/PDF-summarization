@@ -120,25 +120,7 @@ final-/
 └── storage/           # Storage modules
 ```
 
-## Troubleshooting
 
-### Server Not Responding
-1. Ensure virtual environment is activated
-2. Check `.env` file configuration
-3. Verify API key is set correctly
-4. Use `start.bat` for Windows
-
-### API Key Issues
-1. Verify Gemini API key is valid
-2. Check API quota limits
-3. Ensure key is properly set in `.env`
-
-### Virtual Environment Issues
-1. Make sure you're using `.venv1` (not `.venv`)
-2. Activate environment before running commands
-3. Install requirements: `pip install -r requirements.txt`
-
----
 
 **🎉 Now you can chat with any PDF naturally!**
 
